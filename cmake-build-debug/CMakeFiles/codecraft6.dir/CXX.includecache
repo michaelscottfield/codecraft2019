@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/projects/codecraft6/main.cpp
+iostream
+-
+vector
+-
+set
+-
+map
+-
+sstream
+E:/projects/codecraft6/sstream
+fstream
+E:/projects/codecraft6/fstream
+queue
+E:/projects/codecraft6/queue
+algorithm
+E:/projects/codecraft6/algorithm
+
